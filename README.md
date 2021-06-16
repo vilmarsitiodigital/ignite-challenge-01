@@ -9,20 +9,20 @@
 <p align="center">Desafio 01 - Conceitos do React</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vilmarsitiodigital/ignite-challenge-01?color=28ccea">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vilmarsitiodigital/ignite-challenge-01?color=263fac">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vilmarsitiodigital/ignite-challenge-01?color=28ccea">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vilmarsitiodigital/ignite-challenge-01?color=263fac">
 
   <a href="https://github.com/vilmarsitiodigital/ignite-challenge-01/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vilmarsitiodigital/ignite-challenge-01?color=28ccea">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vilmarsitiodigital/ignite-challenge-01?color=263fac">
   </a>
 
   <a href="https://github.com/vilmarsitiodigital/ignite-challenge-01/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/vilmarsitiodigital/ignite-challenge-01?color=28ccea">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/vilmarsitiodigital/ignite-challenge-01?color=263fac">
   </a>
 
   <a href="https://github.com/vilmarsitiodigital/ignite-challenge-01/blob/main/LICENSE">
-    <img alt="GitHub" src="https://img.shields.io/github/license/vilmarsitiodigital/ignite-challenge-01?color=28ccea">
+    <img alt="GitHub" src="https://img.shields.io/github/license/vilmarsitiodigital/ignite-challenge-01?color=263fac">
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 </br>
 
 <p align="center">
-  <img alt="Layout" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1623855733/Development/Ignite/chrome-capture_qeesdl.gif">
+  <img alt="Layout" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1623858396/Development/Ignite/chrome-capture_cfaga6.gif">
 </p>
 
 ## 📆 Sobre o projeto
