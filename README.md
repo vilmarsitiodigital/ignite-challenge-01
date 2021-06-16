@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img alt="Ignite" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1623854215/Development/Ignite/ignite-reactjs_kzqdhj.png" width="750px" />
-</h1>
-
 <h3 align="center">
   Ignite
 </h3>
@@ -9,29 +5,29 @@
 <p align="center">Desafio 01 - Conceitos do React</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vilmarsitiodigital/ignite-challenge-01?color=9f97d2">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vilmarsitiodigital/ignite-challenge-01?color=28ccea">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vilmarsitiodigital/ignite-challenge-01?color=9f97d2">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vilmarsitiodigital/ignite-challenge-01?color=28ccea">
 
   <a href="https://github.com/vilmarsitiodigital/ignite-challenge-01/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vilmarsitiodigital/ignite-challenge-01?color=9f97d2">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vilmarsitiodigital/ignite-challenge-01?color=28ccea">
   </a>
 
   <a href="https://github.com/vilmarsitiodigital/ignite-challenge-01/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/vilmarsitiodigital/ignite-challenge-01?color=9f97d2">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/vilmarsitiodigital/ignite-challenge-01?color=28ccea">
   </a>
 
   <a href="https://github.com/vilmarsitiodigital/ignite-challenge-01/blob/main/LICENSE">
-    <img alt="GitHub" src="https://img.shields.io/github/license/vilmarsitiodigital/ignite-challenge-01?color=9f97d2">
+    <img alt="GitHub" src="https://img.shields.io/github/license/vilmarsitiodigital/ignite-challenge-01?color=28ccea">
   </a>
 </p>
 
 <p align="center">
-  <a href="#%EF%B8%8F-about-the-project">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">Licença</a>
+  <a href="#-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
 </p>
 
 </br>
@@ -106,7 +102,7 @@ $ git push origin my-feature
 
 After your pull request is merged, you can delete your branch
 
-## 📝 License
+## 📝 Licença
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
