@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Ignite" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1623854215/Development/Ignite/ignite-reactjs_kzqdhj.png" width="500px" />
+  <img alt="Ignite" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1623854215/Development/Ignite/ignite-reactjs_kzqdhj.png" width="750px" />
 </h1>
 
 <h3 align="center">
