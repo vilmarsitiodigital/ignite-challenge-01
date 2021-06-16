@@ -104,12 +104,12 @@ $ git commit -m 'Feature: My new feature'
 $ git push origin my-feature
 ```
 
-After your pull request is merged, you can delete your branch
+Depois que sua solicitação pull for mesclada, você pode excluir seu branch
 
 ## 📝 Licença
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Este projeto está licenciado sob a Licença MIT - consulte  [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-Made with 💚 by Vilmar Batista 🤝 [See my linkedin](https://www.linkedin.com/in/vilmarbatista/)
+Feito com 💚 por Vilmar Batista 🤝 [Veja meu linkedin](https://www.linkedin.com/in/vilmarbatista/)
