@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="Ignite" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1623856822/Development/Ignite/ignite-reactjs_kzqdhj.png" />
+</h1>
+
 <h3 align="center">
   Ignite
 </h3>
